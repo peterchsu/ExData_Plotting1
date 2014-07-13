@@ -1,3 +1,8 @@
+## Submitter's notes
+This is my submission of the assignment.  Contained in this directory are five code files:
+* readData.R - this file reads in the data set and is a pre-requisite for the other files to function properly.
+* plot1.R, plot2.R, plot3.R, plot4.R - the four files to create the various plots.
+
 ## Introduction
 
 This assignment uses data from
